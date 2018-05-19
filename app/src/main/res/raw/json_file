@@ -1,0 +1,39 @@
+[
+  {
+    "book_name":"Head First Java, 2nd Edition",
+    "author_name":"Bert Bates (author) ",
+    "description":"Head First Java delivers a highly interactive, multisensory learning experience that lets new programmers pick up the fundamentals of the Java language quickly ..."
+  },
+  {
+    "book_name": "Thinking in Java",
+    "author_name": "Bruce Eckel (author)",
+    "description":"Thinking In Java should be read cover to cover by every Java programmer, then kept Thinking in Java"
+  },
+  {
+    "book_name":"Introduction to Java ",
+    "author_name":"Sedgewick (author)",
+    "description":"Introduction to Programming in Java: An Interdisciplinary Approach by Robert Sedgewick Paperback $88.65. ... For all readers interested in introductory programming courses using the Java programming language"
+  },
+  {
+    "book_name": "Java How to Program",
+    "author_name": " Paul Deitel, Harvey Deitel (author)",
+    "description":"In Java How to Program, Fourth Edition the Deitels introduce the fundamentals of object-oriented programming in Java. The 4th edition includes an optional ..."
+  },
+  {
+    "book_name": "Java In A Nutshell ",
+    "author_name": "David Flanagan (author)",
+    "description":"The latest edition of Java in a Nutshell is designed to help experienced Java programmers get the most out of Java 7 and 8, but it's also a learning path for new ..."
+  },
+  {
+    "book_name": "Effective Java (3rd Edition) ",
+    "author_name": "Joshua Bloch (Author)",
+    "description": "Effective Java (3rd Edition) [Joshua Bloch] on Amazon.com. *FREE* shipping on qualifying offers. The Definitive Guide to Java Platform Best Practices–Updated ..."
+  },
+  {
+    "book_name": "Core Java Volume I-Fundamentals (10th Edition) (Core Series) ",
+    "author_name": "Cay S. Horstmann (Author)",
+    "description": "Core Java® has long been recognized as the leading, no-nonsense tutorial and reference for experienced programmers who want to write robust Java code for ..."
+  }
+
+
+]
